@@ -1,8 +1,3 @@
-<p align="center"> 
-  <img src="static/img/MGC-logo.png" alt="MGC Logo" width="350px" height="100px">
-</p>
-
-
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 
 <details open="open">
@@ -91,7 +86,7 @@ CREATE TABLE contacts (
 1.Fork this repository.
 
  ```console
-git clone https://github.com/MelihGulum/Music-Genre-Classification.git
+git clone https://github.com/DikshantV/Music-Genre-Classification-main.git
 ```
 
 2.Load the dependencies of the project
